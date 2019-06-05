@@ -359,6 +359,7 @@
     <module>testsuite-native-image</module>
     <module>microbench</module>
     <module>bom</module>
+    <module>test-example-yarm</module>
   </modules>
 
   <dependencyManagement>
